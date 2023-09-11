@@ -15,4 +15,4 @@ week02
 	git remote add origin https://github.com/kongmajitenshi/test.git
 	git remote -v
 	git push -u origin main
-	git clone https://github.com/kongmajitenshi/test.git
+	git clone https://github.com/kongmajitenshi/test.git . // clone at this repository
